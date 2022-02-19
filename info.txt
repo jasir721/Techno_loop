@@ -1,0 +1,9 @@
+node install framer-motion node-sass react-icons install
+
+Components folder for header footer card cart and all
+Assets folder for images
+Container for components containing more components inside
+
+
+Header Footer About and Testimonials all of these would be Testimonials
+And navbar would be a components
