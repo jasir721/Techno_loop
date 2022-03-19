@@ -11,6 +11,37 @@
         z-index: 0;
         margin-right: auto;
     }
+    .iit_pkd{
+        // .iit_pkd:hover{
+        //     scale: 1.1;
+        // }
+        position: absolute;
+        width: 31.9vw;
+        height: 79.5vh;
+        left: 3.2vw;
+        top:14.3vh;
+        z-index:1;
+        border-radius: 18px;
+        background: url('../../assets/iitp.png');
+        background-color: #9BD4CF;
+        background-size: 80%;
+        background-position-x: center;
+        background-repeat: no-repeat;
+        .p2{
+            text-align: center;
+            position: absolute;
+            width: 100%;
+            vertical-align: bottom;
+            margin-top: 45vh;
+            // padding: %;
+            padding:5%;
+            font-size: 2em;
+            color: var(--head-blue);
+            font-weight: 500;
+            z-index: 1;
+            // background-color: #519298;
+        }
+    }
     .back_motion_right{
         background-color:var(--darkblue-color);
         width: 16vw;
@@ -40,7 +71,7 @@
             vertical-align: middle;
             margin-top: 34%;
             padding: 0.25em;
-            font-size: 6em;
+            font-size: 5em;
             color: white;
             font-weight: 500;
             background-color: #519298;
@@ -67,7 +98,7 @@
             top: 62%;
             left: 20%;
             padding: 0.25em;
-            font-size: 6em;
+            font-size: 5em;
             color: var(--head-blue);
             font-weight: 500;
             // background-color: #519298;
@@ -83,7 +114,7 @@
         z-index:1;
         border-radius: 18px;
         background: url('../../assets/project.png');
-        background-color: #9BD4CF;
+        background-color: #519298;
 
         background-size: 60%;
         background-position: -0.5em;
@@ -98,7 +129,7 @@
             top: 30%;
             left: 20%;
             padding: 0.25em;
-            font-size: 6em;
+            font-size: 5em;
             color:white;
             font-weight: 500;
             // background-color: #519298;

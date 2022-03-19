@@ -7,3 +7,6 @@ Container for components containing more components inside
 
 Header Footer About and Testimonials all of these would be Testimonials
 And navbar would be a components
+
+# Use framer motion
+# use material design for frontend design
